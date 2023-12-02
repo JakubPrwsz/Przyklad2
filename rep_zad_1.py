@@ -1,0 +1,7 @@
+'''
+Przykładowy kod python
+
+
+'''
+
+
